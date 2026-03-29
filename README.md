@@ -26,7 +26,8 @@ The curriculum is structured around four primary patterns that enable AI to hand
 - `/scripts`: Python scripts for autonomous research agents.
 - `/evals`: Frameworks for testing agentic performance and accuracy.
 
----
+---<img width="1600" height="1200" alt="certificate" src="https://github.com/user-attachments/assets/1ea14fc5-9234-4e7a-94b8-7978ede30436" />
+
 
 ### 💡 Core Takeaway
 The success of an Agentic AI system depends less on the "perfect prompt" and more on a **disciplined engineering process** involving robust evaluation, error analysis, and iterative design patterns.
