@@ -30,3 +30,6 @@ The curriculum is structured around four primary patterns that enable AI to hand
 
 ### 💡 Core Takeaway
 The success of an Agentic AI system depends less on the "perfect prompt" and more on a **disciplined engineering process** involving robust evaluation, error analysis, and iterative design patterns.
+
+
+<img src="certificate.png" alt="Agentic AI Banner" width="800">
